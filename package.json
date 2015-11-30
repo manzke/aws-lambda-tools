@@ -1,0 +1,11 @@
+{
+  "name": "aws-lambda-tools",
+  "version": "0.0.1",
+  "description": "tools used for playing around with amazon aws lambda",
+  "author": "Daniel Manzke",
+  "license" : "MIT",
+  "repository" : {
+  	"type" : "git",
+  	"url" : "https://github.com/manzke/aws-lambda-tools.git"
+  }
+}
